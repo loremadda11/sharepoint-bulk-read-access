@@ -1,0 +1,10 @@
+# Generated operational reports
+Reports/
+**/Reports/
+SharePoint_ReadAccess_*.csv
+
+# Local production configuration / input
+sites.csv
+config.psd1
+*.local.csv
+*.local.psd1
